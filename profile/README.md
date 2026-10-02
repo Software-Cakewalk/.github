@@ -4,11 +4,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Cakewalk_logo.png" alt="Cakewalk Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://software-cakewalk.github.io/.github/">
-    <img src="https://img.shields.io/badge/🎵_Get_Cakewalk-blue?style=for-the-badge&logo=github" alt="Get Cakewalk"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://mariaedwardsn719.github.io/.github/Software-Cakewalk)
 
 ---
 
